@@ -22,5 +22,6 @@ public class Main {
         najwiekszaliczba = liczba3;
       }
       System.out.println("Najwieksza liczba: " + najwiekszaliczba);
-    }
+ 
+  }
 }
